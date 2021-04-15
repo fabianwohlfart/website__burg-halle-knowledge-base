@@ -1,0 +1,10 @@
+{
+  "title": "Burg Halle Knowledge Base",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "fabianwohlfart/website__burg-halle-knowledge-base.git",
+  "twitter": "@nuxt_js"
+}
