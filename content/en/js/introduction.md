@@ -2,7 +2,5 @@
 title: Introduction
 description: ''
 position: 1
-category: ''
+category: JS
 ---
-
-## Welcome

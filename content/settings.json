@@ -1,10 +1,9 @@
 {
   "title": "Burg Halle Knowledge Base",
-  "url": "",
+  "url": "https://burg-halle.de/",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/",
+    "dark": "/"
   },
-  "github": "fabianwohlfart/website__burg-halle-knowledge-base.git",
-  "twitter": "@nuxt_js"
+  "github": "fabianwohlfart/website__burg-halle-knowledge-base.git"
 }
